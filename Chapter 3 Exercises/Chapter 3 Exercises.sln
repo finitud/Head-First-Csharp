@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise p 89", "Exercise p 89\Exercise p 89.csproj", "{E24534CF-567C-48E5-A7C4-E393FFB82019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise p 114", "Exercise p 114\Exercise p 114.csproj", "{56AAE68F-DD04-4AD0-91A2-E7A4474AB7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E24534CF-567C-48E5-A7C4-E393FFB82019}.Debug|x86.ActiveCfg = Debug|x86
+		{E24534CF-567C-48E5-A7C4-E393FFB82019}.Debug|x86.Build.0 = Debug|x86
+		{E24534CF-567C-48E5-A7C4-E393FFB82019}.Release|x86.ActiveCfg = Release|x86
+		{E24534CF-567C-48E5-A7C4-E393FFB82019}.Release|x86.Build.0 = Release|x86
+		{56AAE68F-DD04-4AD0-91A2-E7A4474AB7BC}.Debug|x86.ActiveCfg = Debug|x86
+		{56AAE68F-DD04-4AD0-91A2-E7A4474AB7BC}.Debug|x86.Build.0 = Debug|x86
+		{56AAE68F-DD04-4AD0-91A2-E7A4474AB7BC}.Release|x86.ActiveCfg = Release|x86
+		{56AAE68F-DD04-4AD0-91A2-E7A4474AB7BC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
